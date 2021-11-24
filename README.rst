@@ -31,7 +31,7 @@ Documentaton available at readthedocs_ or github_.
 Requirements
 ============
 
-- django >= 2.0, <3.0
+- django >= 2.0
 - markdown >= 2.6.11
 
 
